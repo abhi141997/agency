@@ -209,10 +209,10 @@ video {
     font-weight: 300 !important;
 }
 
-#logo {
-    position: absolute;
-    top: 16;
-    left: 16;
-    height: 150px;
-    width: 300px;
+.logo {
+    position: fixed;
+    top: 32;
+    left: 32;
+    width: 120px;
+    height: 40px;
 }
